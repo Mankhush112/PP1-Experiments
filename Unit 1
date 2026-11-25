@@ -1,1 +1,60 @@
+Program 2: Perform All Arithmetic Operations
 
+
+Algorithm
+
+Step 1: Start.
+
+Step 2: Input two numbers a and b.
+
+Step 3: Calculate Addition = a + b.
+
+Step 4: Calculate Subtraction = a - b.
+
+Step 5: Calculate Multiplication = a × b.
+
+Step 6: Calculate Division = a / b.
+
+Step 7: Calculate Modulus = a % b.
+
+Step 8: Display all arithmetic results.
+
+Step 9: Stop.
+
+
+Flowchart
+
+
+(START)
+
+↓
+
+Input a, b
+
+↓
+
+Addition = a + b
+
+↓
+
+Subtraction = a - b
+
+↓
+
+Multiplication = a × b
+
+↓
+
+Division = a / b
+
+↓
+
+Modulus = a % b
+
+↓
+
+Display all results
+
+↓
+
+(STOP)
